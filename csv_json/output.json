@@ -1,0 +1,31 @@
+[
+	
+{
+"director": "Herman Gref",
+"email": "sberbank@sberbank.ru",
+"phoneNumber": "8.80056e+10",
+"address": "Moscow",
+"inn": " Vavilova 19 ",
+"name": "7.70708e+09"
+
+
+},
+{
+"director": "Artem Savinovsky",
+"email": "pr@yandex-team.ru",
+"phoneNumber": "8.49574e+10",
+"address": "Moscow Lva Tolstogo 16",
+"inn": "7.73621e+09",
+"name": "Yandex"
+
+},
+{
+"director": "Kim Alexander",
+"email": "mcst@mcst.ru",
+"phoneNumber": "8.49925e+10",
+"address": "Moscow Leninsky Prospekt 51",
+"inn": "7.73605e+09",
+"name": "Mcst"
+}
+]
+	
