@@ -1,0 +1,27 @@
+[
+  {
+     "name": "Sber",
+     "inn": 	7707083893,
+     "address": "Moscow Vavilova 19",
+     "phoneNumber": 88005555550,
+     "email": "sberbank@sberbank.ru",
+     "director": "Herman Gref"
+   },
+   {
+     "name": "Yandex",
+     "inn": 7736207543,
+     "address": "Moscow Lva Tolstogo 16",
+     "phoneNumber": 84957397000,
+     "email": "pr@yandex-team.ru",
+     "director": "Artem Savinovsky"
+   },
+
+   {
+     "name": "Mcst",
+     "inn": 7736053886,
+     "address": "Moscow Leninsky Prospekt 51",
+     "phoneNumber": 84992463046,
+     "email": "mcst@mcst.ru",
+     "director": "Kim Alexander"
+   }
+]
