@@ -1,0 +1,3 @@
+gcc gcc main.c cJSON.c -o main
+./main
+input.json
